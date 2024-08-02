@@ -111,6 +111,10 @@ export const Bio = {
           name: "Postman",
           image:
             "https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256",
+        },                  {
+          name: "Firebase",
+          image:
+            "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/660a56cdaa736c000769a58e/picture",
         },
 
       ],
