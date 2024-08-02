@@ -168,6 +168,25 @@ export const Bio = {
       github: "https://github.com/souravsaha51/Weather-App",
       webapp: "https://monumental-strudel-0f38e6.netlify.app",
     },
+          {
+      id: 2,
+      title: "Password Generator App",
+      date: "Feb 2023 - Mar 2023",
+      description:
+        "Developed a password generator tool that generates a random combination of numbers, letters, and symbols to be used as a password.",
+      image:
+        "https://github.com/souravsaha51/Password-Generator/blob/main/password_generator_pic.png?raw=true",
+      tags: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+
+      ],
+      category: "web app",
+      github: "https://github.com/souravsaha51/Password-Generator",
+      webapp: "https://password-generator-pi-sage.vercel.app/",
+    },
+      
     {
       id: 0,
       title: "Bangalore-House-Price-Prediction",
