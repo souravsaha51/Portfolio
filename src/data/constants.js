@@ -9,7 +9,7 @@ export const Bio = {
       "I'm a pre-final year student at NIT Agartala. I am a motivated and versatile individual, always eager to take on new challenges. I am dedicated to delivering high-quality results With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/souravsaha51",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+      "https://drive.google.com/file/d/16XhQdqVXWyDjU8uOvxB_AMPJqhwWsAZk/view?usp=drivesdk",
     linkedin: "https://www.linkedin.com/in/sourav-saha-4b89b7227/",
     twitter: "https://x.com/LetsSourav1",
     GitHub: "https://github.com/souravsaha51",
