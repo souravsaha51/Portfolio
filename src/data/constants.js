@@ -210,6 +210,7 @@ export const Bio = {
       image:
         "https://github.com/souravsaha51/Blinkit-Sales-Analysis/blob/main/Dashboard.png?raw=true",
       tags: [
+        "Data Collection",
         "Data Visualization",
         "Data Cleaning",
         "Data Transformation",
