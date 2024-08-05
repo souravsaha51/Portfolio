@@ -202,6 +202,26 @@ export const Bio = {
      
     },
     {
+      id: 2,
+      title: "Blinkit Sales Dashboard",
+      date: "Jul 2024 - Aug 2024",
+      description:
+        "The Blinkit Data Analysis project using Power BI aimed to improve decision-making by analyzing key aspects of the business, such as sales performance, customer behaviour, inventory management, and delivery efficiency. The project integrated various data sources and used a range of visualizations to present insights.",
+      image:
+        "https://github.com/souravsaha51/Blinkit-Sales-Analysis/blob/main/Dashboard.png?raw=true",
+      tags: [
+        "Data Visualization",
+        "Data Cleaning",
+        "Data Transformation",
+        "Data Extraction",
+        "Power BI",
+      ],
+      category: "android app",
+      github: "https://github.com/souravsaha51/Blinkit-Sales-Analysis",
+      webapp: "https://github.com/souravsaha51/Blinkit-Sales-Analysis/blob/main/Dashboard.png?raw=true",
+    }, 
+      
+    {
       id: 1,
       title: "Super Store Sales Dashboard",
       date: "May 2024 - Jun 2024",
