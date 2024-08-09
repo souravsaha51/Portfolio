@@ -208,7 +208,7 @@ export const Bio = {
       description:
         "This project employs machine learning to estimate used car prices by training a model on historical sales data.",
       image:
-        "https://github.com/souravsaha51/Car-Price-Prediction/blob/main/car_price_prediction.png?raw=true",
+        "https://github.com/souravsaha51/Car-Price-Prediction/blob/main/car_price_prediction.jpg?raw=true",
       tags: ["Python", "Flask", "Linear Regression", "Machine Learning","Pipeline", "Prediction"],
       category: "machine learning",
       github: "https://github.com/souravsaha51/Car-Price-Prediction/blob/main/car_dataset.csv",
