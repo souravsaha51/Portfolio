@@ -189,7 +189,7 @@ export const Bio = {
       
     {
       id: 0,
-      title: "Bangalore-House-Price-Prediction",
+      title: "Bangalore House Price Prediction",
       date: "Jun 2024 - Jul 2024",
       description:
         "This project combines machine learning and web development to predict housing prices for individuals relocating within Bangalore, Karnataka, India.",
@@ -199,6 +199,20 @@ export const Bio = {
       category: "machine learning",
       github: "https://www.kaggle.com/datasets/sarthakniwate13/bangalore-house-price-dataset",
       webapp: "https://github.com/souravsaha51/Bangalore-House-Price-Prediction",
+     
+    },
+          {
+      id: 3,
+      title: "Car Price Prediction",
+      date: "Jul 2024 - Aug 2024",
+      description:
+        "This project employs machine learning to estimate used car prices by training a model on historical sales data.",
+      image:
+        "https://github.com/souravsaha51/Car-Price-Prediction/blob/main/car_price_prediction.png?raw=true",
+      tags: ["Python", "Flask", "Linear Regression", "Machine Learning","Pipeline", "Prediction"],
+      category: "machine learning",
+      github: "https://github.com/souravsaha51/Car-Price-Prediction/blob/main/car_dataset.csv",
+      webapp: "https://github.com/souravsaha51/Car-Price-Prediction",
      
     },
     {
